@@ -10,7 +10,7 @@
 - 📫 How to reach me **adem.demir.fe@gmail.com**
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AdemDemirFE&show_icons=true&theme=gradient) 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?AdemDemirFE=anuraghazra&repo=github-readme-stats)](https://github.com/AdemDemirFE/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
