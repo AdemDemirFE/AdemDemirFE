@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **adem.demir.fe@gmail.com**
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=AdemDemirFE&show_icons=true&theme=gradient) 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://github.com/ademdemirfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/ademdemirfe" height="30" width="40" /></a>
