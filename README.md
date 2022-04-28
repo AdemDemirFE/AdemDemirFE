@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, Project Management**
 
-- 💬 Ask me about **Unity, Java, Javascript, Angular**
+- 💬 Ask me about **Unity, Java, Javascript, Angular, Ionic**
 
 - 📫 How to reach me **adem.demir.fe@gmail.com**
 
