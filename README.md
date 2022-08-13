@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Application**
 
-- 🌱 I’m currently learning **Unity, Project Management**
+- 🌱 I’m currently learning **Unity, Project Management, Java**
 
 - 💬 Ask me about **Unity, Java, Javascript, Angular, Ionic**
 
