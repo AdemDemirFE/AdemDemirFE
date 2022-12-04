@@ -30,11 +30,8 @@
 <p align="center">
 <a href="https://github.com/AdemDemirFE">
 <a href="https://github.com/AdemDemirFE?tab=repositories">
-<img src="https://badges.pufler.dev/repos/AdemDemirFE?style=flat-square&color=7d8cbe&logo=github"></a> <br>
-<a href="https://github.com/AdemDemirFE?tab=followers"><img src="https://img.shields.io/github/followers/e-k-eyupoglu?style=social"></a> <br>
-<a href="https://github.com/AdemDemirFE"><img align=center src="https://github-readme-stats.vercel.app/api?username=AdemDemirFE&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe" width=500></a> <br>
-<a href="https://github.com/StarLordBerke4"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=e-k-eyupoglu&background=111111&text_color=ffffff&fire=7d8cbe&sideNums=7d8cbe&border=7d8cbe&dates=ffffff&currStreakNum=7d8cbe&ring=7d8cbe&stroke=7d8cbe&currStreakLabel=7d8cbe&sideLabels=7d8cbe" width=500></a>
-
+  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AdemDemirFE&theme=react-dark&hide_border=true&area=true)
 
   
 ![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
