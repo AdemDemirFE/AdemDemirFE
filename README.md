@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adem</h1>
 <h1 align="center">
   <img src="https://github.com/StarLordBerke4/StarLordBerke4/blob/main/GIF/Earth.gif">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <br/>
+  <h1 align="center">👋, I'm Adem</h1>
 </h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
