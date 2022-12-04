@@ -30,9 +30,8 @@
 <p align="center">
 <a href="https://github.com/AdemDemirFE">
 <a href="https://github.com/AdemDemirFE?tab=repositories">
-  
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AdemDemirFE&theme=react-dark&hide_border=true&area=true)
+<br>
 
-  
+ <br>
 ![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
