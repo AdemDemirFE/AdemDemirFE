@@ -4,7 +4,7 @@
   <br/>
   <h1 align="center">👋, I'm Adem</h1>
 </h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Senior Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Mobile Application**
 
