@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Mobile Application**
 
-- 🌱 I’m currently learning **Unity, Project Management, Java**
+- 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **Unity, Java, Javascript, Angular, Ionic**
+- 💬 Ask me about **Unity, Java, Spring Boot, Javascript, Angular, Ionic, React**
 
 - 📫 How to reach me **adem.demir.fe@gmail.com**
 
