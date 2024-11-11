@@ -4,13 +4,13 @@
   <br/>
   <h1 align="center">👋, I'm Adem</h1>
 </h1>
-<h3 align="center">A passionate Senior Developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Mobile Application**
+- 🔭 I’m currently working as a **Full Stack Developer** with experience in **Java (8/17), Spring Boot (2.5/3.3.5)**, and **Oracle/PostgreSQL** databases.
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, React Native / Kubernetes / Kafka / Microservices**
 
-- 💬 Ask me about **Unity, Java, Spring Boot, Javascript, Angular, Ionic, React**
+- 💬 Ask me about **Java, Spring Boot, Javascript, Angular, Ionic, React**
 
 - 📫 How to reach me **adem.demir.fe@gmail.com**
 
