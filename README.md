@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Adem Demir — Senior Software Development Specialist" width="100%" />
+<img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/header.svg" alt="Adem Demir — Senior Software Development Specialist" width="100%" />
 
-<img src="assets/typing.svg" alt="Build • Integrate • Test • Ship" width="100%" />
+<img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/typing.svg" alt="Build • Integrate • Test • Ship" width="100%" />
 
 <br/>
 
@@ -106,12 +106,12 @@ flowchart TB
 
 <table>
 <tr>
-<td width="50%"><img src="assets/github-stats.svg" alt="GitHub analytics card" width="100%" /></td>
-<td width="50%"><img src="assets/achievements.svg" alt="Engineering snapshot card" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/github-stats.svg" alt="GitHub analytics card" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/achievements.svg" alt="Engineering snapshot card" width="100%" /></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/top-languages.svg" alt="Top languages card" width="100%" /></td>
-<td width="50%"><img src="assets/activity.svg" alt="Contribution activity card" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/top-languages.svg" alt="Top languages card" width="100%" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/activity.svg" alt="Contribution activity card" width="100%" /></td>
 </tr>
 </table>
 
@@ -290,7 +290,7 @@ const adem = {
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Build • Integrate • Test • Ship" width="60%" />
+<img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/footer.svg" alt="Build • Integrate • Test • Ship" width="60%" />
 
 **Thanks for visiting my profile.** ⭐
 

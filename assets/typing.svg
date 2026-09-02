@@ -8,16 +8,16 @@
   <rect width="100%" height="100%" rx="18" fill="url(#tbg)"/>
   <g font-family="Consolas, Menlo, monospace" font-size="24" text-anchor="middle">
     <text x="50%" y="64" fill="#06b6d4" opacity="0">» BUILD → INTEGRATE → TEST → SHIP «
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0625;0.1875;0.25;1" dur="16s" begin="0s" repeatCount="indefinite"/>
     </text>
     <text x="50%" y="64" fill="#3b82f6" opacity="0">» Java · Spring Boot · Angular · Ionic · React «
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.3125;0.4375;0.5;1" dur="16s" begin="0s" repeatCount="indefinite"/>
     </text>
     <text x="50%" y="64" fill="#22d3ee" opacity="0">» LLM · RAG · Vector Search · MCP · Agents «
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5625;0.6875;0.75;1" dur="16s" begin="0s" repeatCount="indefinite"/>
     </text>
     <text x="50%" y="64" fill="#818cf8" opacity="0">» ARCHITECTURE · SECURITY · OBSERVABILITY «
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.8125;0.9375;1" dur="16s" begin="0s" repeatCount="indefinite"/>
     </text>
   </g>
 </svg>
