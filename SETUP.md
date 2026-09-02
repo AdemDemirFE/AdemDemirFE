@@ -1,47 +1,53 @@
-# GitHub Profile Setup
+# AdemDemirFE GitHub Profile — Reliable Version
 
-This version removes the unreliable external analytics image endpoints.
+## Why this version is different
 
-## 1. Repository
+The previous profile depended on external SVG/analytics providers. This version removes those fragile dependencies from the analytics section entirely.
 
-Use this repository as the profile repository:
+The README is valid even if GitHub Actions has never run: there are no missing local image files and no broken statistics image URLs.
+
+## Install
+
+Repository must be:
 
 `AdemDemirFE/AdemDemirFE`
 
-## 2. Replace README
+Copy these files to the repository root:
 
-Copy `README.md` to the root of the profile repository.
+- `README.md`
+- `scripts/update_profile_metrics.py`
+- `.github/workflows/profile-metrics.yml`
 
-## 3. Add workflow files
+## Activate
 
-Copy:
+1. Push the files to the `main` branch.
+2. Open **Actions** in GitHub.
+3. Open **Update GitHub Profile Metrics**.
+4. Click **Run workflow** once.
+5. Refresh the profile page.
 
-- `.github/workflows/metrics.yml`
-- `.github/workflows/snake.yml`
-- `scripts/generate_metrics.py`
-- `assets/*.svg`
+The workflow runs every 6 hours afterward.
 
-## 4. Enable Actions
+## Important repository setting
 
-Open **Settings → Actions → General** and make sure GitHub Actions can run and the workflow has permission to write repository contents.
+If GitHub prevents the workflow from pushing changes, open:
 
-The workflows use the repository's built-in `GITHUB_TOKEN`; no personal access token is required for public profile metrics.
+**Settings → Actions → General → Workflow permissions**
 
-## 5. Run once
+and select:
 
-Open **Actions** and manually run:
+**Read and write permissions**
 
-- `Update Profile Metrics`
-- `Generate Profile Graphics`
+Then run the workflow again.
 
-After the first successful run, the README reads the generated SVG files directly from the repository, so there are no Vercel image dependencies.
+## Result
 
-## 6. Why this works
+The profile no longer needs:
 
-The README no longer depends on:
+- `github-readme-stats.vercel.app`
+- `github-readme-activity-graph.vercel.app`
+- `github-profile-trophy.vercel.app`
+- a local SVG assets folder for analytics
+- a separate snake publishing branch
 
-- github-readme-stats.vercel.app
-- github-readme-activity-graph.vercel.app
-- github-profile-trophy.vercel.app
-
-Those services can be unavailable, rate-limited or paused. The profile cards are now generated and committed by your own GitHub Actions workflow.
+All live profile numbers are written directly into `README.md` by GitHub Actions.

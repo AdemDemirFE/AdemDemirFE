@@ -1,27 +1,18 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Adem Demir header">
+# 👋 Adem Demir
 
-<img src="assets/typing.svg" width="90%" alt="Adem Demir animated introduction">
+### Senior Software Development Specialist · Full Stack Developer · Mobile Engineer · AI Enthusiast
 
-<br>
+**Backend · Web · Mobile · Cloud · AI · Architecture · Security**
 
-<a href="https://github.com/AdemDemirFE">
-<img src="https://img.shields.io/badge/GitHub-AdemDemirFE-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/ademdemirfe/">
-<img src="https://img.shields.io/badge/LinkedIn-Adem%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-AdemDemirFE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdemDemirFE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adem%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademdemirfe/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adem.demir.fe@gmail.com)
+
+> **Build it clean → connect it intelligently → test it seriously → ship it reliably.**
 
 </div>
-
----
-
-# 👋 Hello, I'm Adem
-
-**Senior Software Development Specialist • Full Stack Developer • Mobile Engineer • AI Enthusiast**
-
-I build production-oriented software across **backend, web, mobile, cloud and AI**, with a focus on architecture, integration, performance, security and developer experience.
 
 ---
 
@@ -32,19 +23,19 @@ I build production-oriented software across **backend, web, mobile, cloud and AI
 <td width="50%" valign="top">
 
 - 🏗️ Scalable backend architectures
-- 📱 Cross-platform mobile applications
-- 🌐 Modern web experiences
+- 📱 Production-ready cross-platform mobile apps
+- 🌐 Modern web applications
 - 🔌 REST APIs & microservices
-- 🗄️ Relational & NoSQL databases
+- 🗄️ PostgreSQL, Oracle & NoSQL
 
 </td>
 <td width="50%" valign="top">
 
-- ☁️ Docker & cloud deployments
+- ☁️ Docker & deployment automation
 - 🤖 LLM, RAG, vector search & MCP
 - 🧪 Testing & production readiness
 - 🔐 Security & observability
-- 🎨 Technical complexity → clean UX
+- 🎨 Complex systems → clean UX
 
 </td>
 </tr>
@@ -54,103 +45,163 @@ I build production-oriented software across **backend, web, mobile, cloud and AI
 
 ## 🧩 Technology Universe
 
-<div align="center">
-
 ### Backend
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs&theme=dark" alt="Backend">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,ionic,html,css&theme=dark" alt="Frontend and mobile">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 
 ### Data & Infrastructure
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,kafka,linux,git&theme=dark" alt="Data and infrastructure">
 
-### AI / Tools
-<img src="https://skillicons.dev/icons?i=python,figma,postman,github,arduino,unity&theme=dark" alt="Tools">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+### AI / Engineering Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🏛️ Architecture Is a Feature
 
-```text
-                    ┌────────────────────┐
-                    │      USER / UX      │
-                    └─────────┬──────────┘
-                              │
-                    ┌─────────▼──────────┐
-                    │ WEB • MOBILE • API │
-                    └─────────┬──────────┘
-                              │
-                    ┌─────────▼──────────┐
-                    │  SERVICES / BACKEND│
-                    └────┬────┬────┬─────┘
-                         │    │    │
-                 ┌───────▼┐ ┌─▼──┐ ┌▼────────┐
-                 │Postgres│ │Redis│ │  Kafka  │
-                 └────────┘ └────┘ └─────────┘
-                         │
-                    ┌────▼────────────┐
-                    │   AI / LLM      │
-                    │ RAG • MCP • DB  │
-                    └─────────────────┘
+```mermaid
+flowchart TB
+    U[User / UX] --> C[Web / Mobile Clients]
+    C --> API[REST APIs / Gateway]
+    API --> S[Application Services]
+    S --> DB[(PostgreSQL / Oracle)]
+    S --> R[(Redis)]
+    S --> K[Kafka / Async Messaging]
+    S --> AI[AI Layer]
+    AI --> RAG[RAG / Vector Search]
+    AI --> MCP[MCP / Tooling]
+    S --> OBS[Logs / Metrics / Monitoring]
 ```
 
-> **Build it clean → connect it intelligently → test it seriously → ship it reliably.**
-
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Profile Analytics
 
-> **Self-hosted metrics:** These cards are generated inside this repository by GitHub Actions. They do **not** depend on `github-readme-stats.vercel.app`, `github-readme-activity-graph.vercel.app` or `github-profile-trophy.vercel.app`.
+> **This section intentionally uses GitHub-rendered Markdown only.** No Vercel statistics cards, external SVG analytics, contribution-snake files, or trophy services are required. GitHub Actions refreshes the numbers below automatically.
 
-<div align="center">
+<!-- PROFILE_METRICS:START -->
 
-<img src="assets/github-stats.svg" width="96%" alt="GitHub statistics">
+| Metric | Value |
+|---|---:|
+| ⭐ Stars received | Updating… |
+| 🍴 Forks | Updating… |
+| 📦 Public repositories | Updating… |
+| 📝 Commits | Updating… |
+| 🔀 Pull requests | Updating… |
+| 🐛 Issues | Updating… |
+| 👀 PR reviews | Updating… |
+| 🔥 Current contribution streak | Updating… |
+| 🏆 Longest contribution streak | Updating… |
+| 📈 Contributions in current period | Updating… |
 
-<br><br>
+### 💻 Most Used Languages
 
-<img src="assets/top-languages.svg" width="96%" alt="Top languages">
+`Calculating language distribution…`
 
-<br><br>
+### 📅 Recent Contribution Activity
 
-<img src="assets/activity.svg" width="96%" alt="GitHub activity">
+`GitHub Actions will populate the last 12 weeks here.`
 
-<br><br>
-
-<img src="assets/achievements.svg" width="96%" alt="GitHub achievements">
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
-  <img src="assets/github-snake.svg" width="100%" alt="Animated GitHub contribution snake">
-</picture>
-
-</div>
+<!-- PROFILE_METRICS:END -->
 
 ---
 
 ## ⚡ Current Focus
 
+| Area | Focus |
+|---|---|
+| 🧠 AI Engineering | LLM · RAG · Vector Search · MCP · AI infrastructure |
+| ☕ Backend | Java · Spring Boot · .NET · REST · Microservices |
+| 📱 Mobile | Ionic · Angular · Capacitor · Android · iOS |
+| 🌐 Frontend | Angular · React · TypeScript |
+| ☁️ Cloud / DevOps | Docker · Kubernetes · CI/CD · Linux |
+| 📨 Messaging | Kafka · Redis · Event-driven systems |
+| 🔐 Quality | Security · Testing · Observability · Production readiness |
+
+---
+
+## 🚀 What I Build
+
 ```text
-BACKEND       ████████████████████
-MOBILE        ██████████████████░░
-FRONTEND      ████████████████░░░░
-CLOUD         ██████████████░░░░░░
-AI / RAG      ███████████████░░░░░
-DEVOPS        ████████████░░░░░░░░
+┌──────────────────────────────────────────────────────────────┐
+│                       ADEM ENGINEERING                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  WEB ────────────┐                                           │
+│  MOBILE ─────────┼──► API / SERVICES ──► DATA               │
+│  INTEGRATIONS ───┘          │                  │              │
+│                             ├──► CACHE / EVENTS              │
+│                             │                               │
+│                             └──► AI / RAG / MCP             │
+│                                                              │
+│                  TEST → OBSERVE → SECURE → SHIP              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-`React` `React Native` `Kubernetes` `Kafka` `Microservices` `RAG` `MCP` `LLM Infrastructure`
+---
+
+## 🧪 Engineering Principles
+
+- **Architecture before complexity.**
+- **Automation before repetition.**
+- **Observability before guessing.**
+- **Security before production.**
+- **Tests before confidence.**
+- **Simple interfaces over unnecessary complexity.**
+- **A system is successful when it can evolve safely.**
+
+---
+
+## 🤖 AI / RAG / MCP
+
+I am particularly interested in practical AI systems rather than isolated model demos:
+
+`LLM` · `RAG` · `Embeddings` · `Vector Databases` · `Qdrant` · `Redis` · `LiteLLM` · `Ollama` · `MCP` · `Agents` · `n8n` · `AI Infrastructure`
+
+Typical flow:
+
+```text
+Documents / APIs
+      ↓
+Ingestion & Chunking
+      ↓
+Embeddings
+      ↓
+Vector Search
+      ↓
+Retrieval + Context
+      ↓
+LLM / Agent
+      ↓
+Tool Calling / MCP
+      ↓
+Application Response
+```
 
 ---
 
@@ -159,19 +210,19 @@ DEVOPS        ████████████░░░░░░░░
 ```javascript
 const adem = {
   role: "Senior Software Development Specialist",
-  focus: [
-    "Architecture",
-    "Automation",
-    "Performance",
-    "Security",
-    "Developer Experience"
-  ],
   build: [
     "Web Applications",
     "Mobile Applications",
     "Backend Services",
     "Microservices",
     "AI-powered Systems"
+  ],
+  focus: [
+    "Architecture",
+    "Automation",
+    "Performance",
+    "Security",
+    "Developer Experience"
   ],
   philosophy:
     "Great software is not only code that works — it is software that can evolve."
@@ -184,16 +235,20 @@ const adem = {
 
 <div align="center">
 
-<a href="mailto:adem.demir.fe@gmail.com">📧 Email</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/ademdemirfe/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/AdemDemirFE">GitHub</a>
-&nbsp; • &nbsp;
-<a href="https://www.instagram.com/adem.fe.23/">Instagram</a>
+[![GitHub](https://img.shields.io/badge/GitHub-AdemDemirFE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdemDemirFE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adem%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademdemirfe/)
+[![Instagram](https://img.shields.io/badge/Instagram-adem.fe.23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adem.fe.23/)
 
-<br><br>
+📧 **adem.demir.fe@gmail.com**
 
-<img src="assets/footer.svg" width="100%" alt="Footer">
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • INTEGRATE • TEST • SHIP`
+
+**Thanks for visiting my profile.** ⭐
 
 </div>
