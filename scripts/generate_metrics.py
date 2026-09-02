@@ -1,10 +1,13 @@
-import json, os, urllib.request
+import json, os, sys, urllib.request
 from datetime import datetime, timedelta, timezone
 from collections import Counter
 
 USER = os.environ.get("GH_USER", "AdemDemirFE")
-TOKEN = os.environ["GH_TOKEN"]
+TOKEN = os.environ.get("GH_TOKEN")
 API = "https://api.github.com"
+
+if not TOKEN:
+    sys.exit("Error: GH_TOKEN environment variable is not set.")
 
 def get(path):
     req = urllib.request.Request(API + path, headers={
@@ -120,7 +123,7 @@ for w in cc["contributionCalendar"]["weeks"][-12:]:
     totalw=sum(d["contributionCount"] for d in w["contributionDays"])
     weekly.append(totalw)
 W=1200; H=420
-mx=max(weekly) if weekly else 1
+mx=max(weekly) or 1
 out=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}">',
      '<rect width="100%" height="100%" rx="24" fill="#0f172a"/>',
      '<text x="60" y="55" font-family="Arial" font-size="30" font-weight="700" fill="#06b6d4">CONTRIBUTION ACTIVITY • LAST 12 WEEKS</text>']

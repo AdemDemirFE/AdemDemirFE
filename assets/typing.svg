@@ -1,5 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150">
-<rect width="100%" height="100%" rx="20" fill="#0f172a"/>
-<text x="50%" y="42" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#06b6d4">BUILD • INTEGRATE • TEST • SHIP</text>
-<text x="50%" y="70" text-anchor="middle" font-family="Arial" font-size="20" fill="#e2e8f0">Java • Spring Boot • Angular • Ionic • AI</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" role="img" aria-label="Rotating engineering slogans">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="18" fill="url(#tbg)"/>
+  <g font-family="Consolas, Menlo, monospace" font-size="24" text-anchor="middle">
+    <text x="50%" y="64" fill="#06b6d4" opacity="0">» BUILD → INTEGRATE → TEST → SHIP «
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="50%" y="64" fill="#3b82f6" opacity="0">» Java · Spring Boot · Angular · Ionic · React «
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="50%" y="64" fill="#22d3ee" opacity="0">» LLM · RAG · Vector Search · MCP · Agents «
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="50%" y="64" fill="#818cf8" opacity="0">» ARCHITECTURE · SECURITY · OBSERVABILITY «
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
 </svg>

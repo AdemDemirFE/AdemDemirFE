@@ -1,10 +1,13 @@
-import json, os, urllib.request
+import json, os, sys, urllib.request
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timezone
 
 USER = os.environ.get("GH_USER", "AdemDemirFE")
-TOKEN = os.environ["GH_TOKEN"]
+TOKEN = os.environ.get("GH_TOKEN")
 API = "https://api.github.com"
+
+if not TOKEN:
+    sys.exit("Error: GH_TOKEN environment variable is not set.")
 
 
 def rest(path):
@@ -131,18 +134,25 @@ for week in cc["contributionCalendar"]["weeks"][-12:]:
     total_week = sum(d["contributionCount"] for d in week["contributionDays"])
     start = week["contributionDays"][0]["date"]
     weekly.append((start, total_week))
+max_week = max(v for _, v in weekly) if weekly else 0
 for start, value in weekly:
     label = datetime.fromisoformat(start).strftime("%d %b")
-    blocks = min(20, max(1, value // max(1, max(v for _, v in weekly) // 20 or 1))) if value else 0
+    blocks = min(20, max(1, round(value / max_week * 20))) if value and max_week else 0
     bar = "█" * blocks + "░" * (20 - blocks)
     lines.append(f"- `{label}` `{bar}` **{value}** contributions")
+
+stamp = datetime.now(timezone.utc).strftime("%d %b %Y %H:%M UTC")
+lines += ["", f"_Last updated: {stamp}_"]
 
 new_block = "<!-- PROFILE_METRICS:START -->\n\n" + "\n".join(lines) + "\n\n<!-- PROFILE_METRICS:END -->"
 
 path = "README.md"
 text = open(path, encoding="utf-8").read()
-start = text.index("<!-- PROFILE_METRICS:START -->")
-end = text.index("<!-- PROFILE_METRICS:END -->") + len("<!-- PROFILE_METRICS:END -->")
+start = text.find("<!-- PROFILE_METRICS:START -->")
+end = text.find("<!-- PROFILE_METRICS:END -->")
+if start == -1 or end == -1:
+    sys.exit("Error: README.md is missing the PROFILE_METRICS markers.")
+end += len("<!-- PROFILE_METRICS:END -->")
 text = text[:start] + new_block + text[end:]
 open(path, "w", encoding="utf-8").write(text)
 print("Updated profile metrics for", USER)
