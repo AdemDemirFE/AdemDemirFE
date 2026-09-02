@@ -121,24 +121,44 @@ flowchart TB
 
 | Metric | Value |
 |---|---:|
-| ⭐ Stars received | Updating… |
-| 🍴 Forks | Updating… |
-| 📦 Public repositories | Updating… |
-| 📝 Commits | Updating… |
-| 🔀 Pull requests | Updating… |
-| 🐛 Issues | Updating… |
-| 👀 PR reviews | Updating… |
-| 🔥 Current contribution streak | Updating… |
-| 🏆 Longest contribution streak | Updating… |
-| 📈 Contributions in current period | Updating… |
+| ⭐ Stars received | **6** |
+| 🍴 Forks | **0** |
+| 📦 Public repositories | **94** |
+| 📝 Commits | **135** |
+| 🔀 Pull requests | **7** |
+| 🐛 Issues | **4** |
+| 👀 PR reviews | **0** |
+| 🔥 Current contribution streak | **8 days** |
+| 🏆 Longest contribution streak | **8 days** |
+| 📈 Contributions in current period | **262** |
 
 ### 💻 Most Used Languages
 
-`Calculating language distribution…`
+- **Java** `40.0%` `████████░░░░░░░░░░░░`
+- **TypeScript** `23.7%` `█████░░░░░░░░░░░░░░░`
+- **Python** `11.8%` `██░░░░░░░░░░░░░░░░░░`
+- **JavaScript** `6.6%` `█░░░░░░░░░░░░░░░░░░░`
+- **C** `6.2%` `█░░░░░░░░░░░░░░░░░░░`
+- **HTML** `2.7%` `█░░░░░░░░░░░░░░░░░░░`
+- **PHP** `2.3%` `█░░░░░░░░░░░░░░░░░░░`
+- **Vue** `1.4%` `█░░░░░░░░░░░░░░░░░░░`
 
 ### 📅 Recent Contribution Activity
 
-`GitHub Actions will populate the last 12 weeks here.`
+- `14 Jun` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
+- `21 Jun` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
+- `28 Jun` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
+- `05 Jul` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
+- `12 Jul` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
+- `19 Jul` `█░░░░░░░░░░░░░░░░░░░` **1** contributions
+- `26 Jul` `█░░░░░░░░░░░░░░░░░░░` **4** contributions
+- `02 Aug` `████░░░░░░░░░░░░░░░░` **19** contributions
+- `09 Aug` `███░░░░░░░░░░░░░░░░░` **18** contributions
+- `16 Aug` `██████████░░░░░░░░░░` **54** contributions
+- `23 Aug` `███████░░░░░░░░░░░░░` **36** contributions
+- `30 Aug` `████████████████████` **108** contributions
+
+_Last updated: 02 Sep 2026 11:24 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
