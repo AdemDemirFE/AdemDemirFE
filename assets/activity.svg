@@ -15,14 +15,14 @@
 <text x="565.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">1</text>
 <rect x="620" y="331" width="70" height="9" rx="8" fill="#06b6d4"/>
 <text x="655.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">4</text>
-<rect x="710" y="295" width="70" height="45" rx="8" fill="#06b6d4"/>
+<rect x="710" y="296" width="70" height="44" rx="8" fill="#06b6d4"/>
 <text x="745.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">19</text>
-<rect x="800" y="297" width="70" height="43" rx="8" fill="#06b6d4"/>
+<rect x="800" y="298" width="70" height="42" rx="8" fill="#06b6d4"/>
 <text x="835.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">18</text>
-<rect x="890" y="210" width="70" height="130" rx="8" fill="#06b6d4"/>
+<rect x="890" y="214" width="70" height="126" rx="8" fill="#06b6d4"/>
 <text x="925.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">54</text>
-<rect x="980" y="254" width="70" height="86" rx="8" fill="#06b6d4"/>
+<rect x="980" y="256" width="70" height="84" rx="8" fill="#06b6d4"/>
 <text x="1015.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">36</text>
 <rect x="1070" y="80" width="70" height="260" rx="8" fill="#06b6d4"/>
-<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">108</text>
+<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">111</text>
 </svg>
