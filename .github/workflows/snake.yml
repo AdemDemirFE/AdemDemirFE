@@ -1,0 +1,31 @@
+name: Generate Profile Graphics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AdemDemirFE
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated graphics
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

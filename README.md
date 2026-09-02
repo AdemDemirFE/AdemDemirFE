@@ -1,35 +1,199 @@
-<h1 align="center">
-  <img src="https://github.com/StarLordBerke4/StarLordBerke4/blob/main/GIF/Earth.gif">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <br/>
-  <h1 align="center">👋, I'm Adem</h1>
-</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<div align="center">
 
-- 🔭 I’m currently working as a **Full Stack Developer** with experience in **Java (8/17), Spring Boot (2.5/3.3.5)**, and **Oracle/PostgreSQL** databases.
+<img src="assets/header.svg" width="100%" alt="Adem Demir header">
 
-- 🌱 I’m currently learning **React, React Native / Kubernetes / Kafka / Microservices**
+<img src="assets/typing.svg" width="90%" alt="Adem Demir animated introduction">
 
-- 💬 Ask me about **Java, Spring Boot, Javascript, Angular, Ionic, React**
+<br>
 
-- 📫 How to reach me **adem.demir.fe@gmail.com**
-
-
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ademdemirfe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/ademdemirfe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adem.fe.23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/ademdemirfe" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> </p>
-
-<p align="center">
 <a href="https://github.com/AdemDemirFE">
-<a href="https://github.com/AdemDemirFE?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-AdemDemirFE-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ademdemirfe/">
+<img src="https://img.shields.io/badge/LinkedIn-Adem%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+# 👋 Hello, I'm Adem
+
+**Senior Software Development Specialist • Full Stack Developer • Mobile Engineer • AI Enthusiast**
+
+I build production-oriented software across **backend, web, mobile, cloud and AI**, with a focus on architecture, integration, performance, security and developer experience.
+
+---
+
+## 🧠 Engineering Mindset
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🏗️ Scalable backend architectures
+- 📱 Cross-platform mobile applications
+- 🌐 Modern web experiences
+- 🔌 REST APIs & microservices
+- 🗄️ Relational & NoSQL databases
+
+</td>
+<td width="50%" valign="top">
+
+- ☁️ Docker & cloud deployments
+- 🤖 LLM, RAG, vector search & MCP
+- 🧪 Testing & production readiness
+- 🔐 Security & observability
+- 🎨 Technical complexity → clean UX
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Technology Universe
+
+<div align="center">
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs&theme=dark" alt="Backend">
+
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,ionic,html,css&theme=dark" alt="Frontend and mobile">
+
+### Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,kafka,linux,git&theme=dark" alt="Data and infrastructure">
+
+### AI / Tools
+<img src="https://skillicons.dev/icons?i=python,figma,postman,github,arduino,unity&theme=dark" alt="Tools">
+
+</div>
+
+---
+
+## 🏛️ Architecture Is a Feature
+
+```text
+                    ┌────────────────────┐
+                    │      USER / UX      │
+                    └─────────┬──────────┘
+                              │
+                    ┌─────────▼──────────┐
+                    │ WEB • MOBILE • API │
+                    └─────────┬──────────┘
+                              │
+                    ┌─────────▼──────────┐
+                    │  SERVICES / BACKEND│
+                    └────┬────┬────┬─────┘
+                         │    │    │
+                 ┌───────▼┐ ┌─▼──┐ ┌▼────────┐
+                 │Postgres│ │Redis│ │  Kafka  │
+                 └────────┘ └────┘ └─────────┘
+                         │
+                    ┌────▼────────────┐
+                    │   AI / LLM      │
+                    │ RAG • MCP • DB  │
+                    └─────────────────┘
+```
+
+> **Build it clean → connect it intelligently → test it seriously → ship it reliably.**
+
+---
+
+# 📊 GitHub Analytics
+
+> **Self-hosted metrics:** These cards are generated inside this repository by GitHub Actions. They do **not** depend on `github-readme-stats.vercel.app`, `github-readme-activity-graph.vercel.app` or `github-profile-trophy.vercel.app`.
+
+<div align="center">
+
+<img src="assets/github-stats.svg" width="96%" alt="GitHub statistics">
+
+<br><br>
+
+<img src="assets/top-languages.svg" width="96%" alt="Top languages">
+
+<br><br>
+
+<img src="assets/activity.svg" width="96%" alt="GitHub activity">
+
+<br><br>
+
+<img src="assets/achievements.svg" width="96%" alt="GitHub achievements">
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
+  <img src="assets/github-snake.svg" width="100%" alt="Animated GitHub contribution snake">
+</picture>
+
+</div>
+
+---
+
+## ⚡ Current Focus
+
+```text
+BACKEND       ████████████████████
+MOBILE        ██████████████████░░
+FRONTEND      ████████████████░░░░
+CLOUD         ██████████████░░░░░░
+AI / RAG      ███████████████░░░░░
+DEVOPS        ████████████░░░░░░░░
+```
+
+`React` `React Native` `Kubernetes` `Kafka` `Microservices` `RAG` `MCP` `LLM Infrastructure`
+
+---
+
+## 💡 Beyond the Code
+
+```javascript
+const adem = {
+  role: "Senior Software Development Specialist",
+  focus: [
+    "Architecture",
+    "Automation",
+    "Performance",
+    "Security",
+    "Developer Experience"
+  ],
+  build: [
+    "Web Applications",
+    "Mobile Applications",
+    "Backend Services",
+    "Microservices",
+    "AI-powered Systems"
+  ],
+  philosophy:
+    "Great software is not only code that works — it is software that can evolve."
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:adem.demir.fe@gmail.com">📧 Email</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/ademdemirfe/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/AdemDemirFE">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.instagram.com/adem.fe.23/">Instagram</a>
+
+<br><br>
+
+<img src="assets/footer.svg" width="100%" alt="Footer">
+
+</div>
