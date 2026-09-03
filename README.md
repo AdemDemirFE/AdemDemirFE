@@ -123,24 +123,24 @@ flowchart TB
 |---|---:|
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
-| 📦 Public repositories | **97** |
-| 📝 Commits | **142** |
+| 📦 Public repositories | **98** |
+| 📝 Commits | **147** |
 | 🔀 Pull requests | **7** |
 | 🐛 Issues | **4** |
 | 👀 PR reviews | **0** |
 | 🔥 Current contribution streak | **9 days** |
 | 🏆 Longest contribution streak | **9 days** |
-| 📈 Contributions in current period | **287** |
+| 📈 Contributions in current period | **319** |
 
 ### 💻 Most Used Languages
 
-- **Java** `39.5%` `████████░░░░░░░░░░░░`
-- **TypeScript** `23.4%` `█████░░░░░░░░░░░░░░░`
-- **Python** `11.6%` `██░░░░░░░░░░░░░░░░░░`
-- **JavaScript** `6.8%` `█░░░░░░░░░░░░░░░░░░░`
-- **C** `6.1%` `█░░░░░░░░░░░░░░░░░░░`
-- **HTML** `2.7%` `█░░░░░░░░░░░░░░░░░░░`
-- **PHP** `2.3%` `█░░░░░░░░░░░░░░░░░░░`
+- **Java** `37.8%` `████████░░░░░░░░░░░░`
+- **TypeScript** `22.6%` `█████░░░░░░░░░░░░░░░`
+- **Python** `11.1%` `██░░░░░░░░░░░░░░░░░░`
+- **JavaScript** `6.5%` `█░░░░░░░░░░░░░░░░░░░`
+- **C** `5.9%` `█░░░░░░░░░░░░░░░░░░░`
+- **PHP** `5.4%` `█░░░░░░░░░░░░░░░░░░░`
+- **HTML** `2.5%` `█░░░░░░░░░░░░░░░░░░░`
 - **Go** `1.7%` `█░░░░░░░░░░░░░░░░░░░`
 
 ### 📅 Recent Contribution Activity
@@ -152,13 +152,13 @@ flowchart TB
 - `12 Jul` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
 - `19 Jul` `█░░░░░░░░░░░░░░░░░░░` **1** contributions
 - `26 Jul` `█░░░░░░░░░░░░░░░░░░░` **4** contributions
-- `02 Aug` `███░░░░░░░░░░░░░░░░░` **19** contributions
-- `09 Aug` `███░░░░░░░░░░░░░░░░░` **18** contributions
-- `16 Aug` `████████░░░░░░░░░░░░` **54** contributions
-- `23 Aug` `█████░░░░░░░░░░░░░░░` **36** contributions
-- `30 Aug` `████████████████████` **133** contributions
+- `02 Aug` `██░░░░░░░░░░░░░░░░░░` **19** contributions
+- `09 Aug` `██░░░░░░░░░░░░░░░░░░` **18** contributions
+- `16 Aug` `███████░░░░░░░░░░░░░` **54** contributions
+- `23 Aug` `████░░░░░░░░░░░░░░░░` **36** contributions
+- `30 Aug` `████████████████████` **165** contributions
 
-_Last updated: 03 Sep 2026 11:18 UTC_
+_Last updated: 03 Sep 2026 16:28 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
