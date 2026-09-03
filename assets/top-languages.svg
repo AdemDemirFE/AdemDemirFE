@@ -2,11 +2,11 @@
 <rect width="100%" height="100%" rx="24" fill="#0f172a"/>
 <text x="60" y="62" font-family="Arial" font-size="30" font-weight="700" fill="#06b6d4">TOP LANGUAGES</text>
 <text x="70" y="120" font-family="Arial" font-size="20" fill="#94a3b8">Java</text>
-<text x="70" y="162" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">42.0%</text>
+<text x="70" y="162" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">41.9%</text>
 <text x="70" y="225" font-family="Arial" font-size="20" fill="#94a3b8">TypeScript</text>
 <text x="70" y="267" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">24.9%</text>
 <text x="70" y="330" font-family="Arial" font-size="20" fill="#94a3b8">Python</text>
-<text x="70" y="372" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">12.4%</text>
+<text x="70" y="372" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">12.3%</text>
 <text x="70" y="435" font-family="Arial" font-size="20" fill="#94a3b8">JavaScript</text>
 <text x="70" y="477" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">7.2%</text>
 <text x="70" y="540" font-family="Arial" font-size="20" fill="#94a3b8">C</text>
@@ -16,5 +16,5 @@
 <text x="70" y="750" font-family="Arial" font-size="20" fill="#94a3b8">PHP</text>
 <text x="70" y="792" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">2.5%</text>
 <text x="70" y="855" font-family="Arial" font-size="20" fill="#94a3b8">Go</text>
-<text x="70" y="897" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">1.7%</text>
+<text x="70" y="897" font-family="Arial" font-size="34" font-weight="700" fill="#f8fafc">1.8%</text>
 </svg>
