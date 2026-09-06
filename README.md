@@ -124,13 +124,13 @@ flowchart TB
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
 | 📦 Public repositories | **98** |
-| 📝 Commits | **170** |
+| 📝 Commits | **172** |
 | 🔀 Pull requests | **7** |
 | 🐛 Issues | **4** |
 | 👀 PR reviews | **0** |
-| 🔥 Current contribution streak | **11 days** |
-| 🏆 Longest contribution streak | **11 days** |
-| 📈 Contributions in current period | **354** |
+| 🔥 Current contribution streak | **12 days** |
+| 🏆 Longest contribution streak | **12 days** |
+| 📈 Contributions in current period | **366** |
 
 ### 💻 Most Used Languages
 
@@ -145,7 +145,6 @@ flowchart TB
 
 ### 📅 Recent Contribution Activity
 
-- `14 Jun` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
 - `21 Jun` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
 - `28 Jun` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
 - `05 Jul` `░░░░░░░░░░░░░░░░░░░░` **0** contributions
@@ -156,9 +155,10 @@ flowchart TB
 - `09 Aug` `██░░░░░░░░░░░░░░░░░░` **18** contributions
 - `16 Aug` `█████░░░░░░░░░░░░░░░` **54** contributions
 - `23 Aug` `████░░░░░░░░░░░░░░░░` **36** contributions
-- `30 Aug` `████████████████████` **200** contributions
+- `30 Aug` `████████████████████` **204** contributions
+- `06 Sep` `█░░░░░░░░░░░░░░░░░░░` **8** contributions
 
-_Last updated: 05 Sep 2026 20:24 UTC_
+_Last updated: 06 Sep 2026 04:43 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
