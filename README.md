@@ -123,14 +123,14 @@ flowchart TB
 |---|---:|
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
-| 📦 Public repositories | **99** |
-| 📝 Commits | **192** |
+| 📦 Public repositories | **100** |
+| 📝 Commits | **206** |
 | 🔀 Pull requests | **7** |
 | 🐛 Issues | **4** |
 | 👀 PR reviews | **0** |
 | 🔥 Current contribution streak | **13 days** |
 | 🏆 Longest contribution streak | **13 days** |
-| 📈 Contributions in current period | **398** |
+| 📈 Contributions in current period | **413** |
 
 ### 💻 Most Used Languages
 
@@ -156,9 +156,9 @@ flowchart TB
 - `16 Aug` `█████░░░░░░░░░░░░░░░` **54** contributions
 - `23 Aug` `████░░░░░░░░░░░░░░░░` **36** contributions
 - `30 Aug` `████████████████████` **204** contributions
-- `06 Sep` `████░░░░░░░░░░░░░░░░` **40** contributions
+- `06 Sep` `█████░░░░░░░░░░░░░░░` **55** contributions
 
-_Last updated: 07 Sep 2026 12:38 UTC_
+_Last updated: 07 Sep 2026 21:33 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
