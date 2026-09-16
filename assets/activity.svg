@@ -23,6 +23,6 @@
 <text x="925.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">223</text>
 <rect x="980" y="111" width="70" height="229" rx="8" fill="#06b6d4"/>
 <text x="1015.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">197</text>
-<rect x="1070" y="300" width="70" height="40" rx="8" fill="#06b6d4"/>
-<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">35</text>
+<rect x="1070" y="282" width="70" height="58" rx="8" fill="#06b6d4"/>
+<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">50</text>
 </svg>
