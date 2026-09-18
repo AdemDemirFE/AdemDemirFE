@@ -11,7 +11,7 @@
 <text x="385.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">1</text>
 <rect x="440" y="336" width="70" height="4" rx="8" fill="#06b6d4"/>
 <text x="475.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">4</text>
-<rect x="530" y="318" width="70" height="22" rx="8" fill="#06b6d4"/>
+<rect x="530" y="319" width="70" height="21" rx="8" fill="#06b6d4"/>
 <text x="565.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">19</text>
 <rect x="620" y="320" width="70" height="20" rx="8" fill="#06b6d4"/>
 <text x="655.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">18</text>
@@ -20,9 +20,9 @@
 <rect x="800" y="299" width="70" height="41" rx="8" fill="#06b6d4"/>
 <text x="835.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">36</text>
 <rect x="890" y="80" width="70" height="260" rx="8" fill="#06b6d4"/>
-<text x="925.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">223</text>
-<rect x="980" y="111" width="70" height="229" rx="8" fill="#06b6d4"/>
+<text x="925.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">226</text>
+<rect x="980" y="114" width="70" height="226" rx="8" fill="#06b6d4"/>
 <text x="1015.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">197</text>
-<rect x="1070" y="213" width="70" height="127" rx="8" fill="#06b6d4"/>
-<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">109</text>
+<rect x="1070" y="206" width="70" height="134" rx="8" fill="#06b6d4"/>
+<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">117</text>
 </svg>
