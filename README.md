@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdemDemirFE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdemDemirFE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adem%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademdemirfe/)
+[![Instagram](https://img.shields.io/badge/Instagram-adem.fe.23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adem.fe.23/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adem.demir.fe@gmail.com)
 
 > **Build it clean → connect it intelligently → test it seriously → ship it reliably.**
@@ -16,30 +17,17 @@
 
 ---
 
-## 🧠 Engineering Mindset
+## ⚡ Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- 🏗️ Scalable backend architectures
-- 📱 Production-ready cross-platform mobile apps
-- 🌐 Modern web applications
-- 🔌 REST APIs & microservices
-- 🗄️ PostgreSQL, Oracle & NoSQL
-
-</td>
-<td width="50%" valign="top">
-
-- ☁️ Docker & deployment automation
-- 🤖 LLM, RAG, vector search & MCP
-- 🧪 Testing & production readiness
-- 🔐 Security & observability
-- 🎨 Complex systems → clean UX
-
-</td>
-</tr>
-</table>
+| Area | Focus |
+|---|---|
+| 🧠 AI Engineering | LLM · RAG · Vector Search · MCP · AI infrastructure |
+| ☕ Backend | Java · Spring Boot · .NET · REST · Microservices |
+| 📱 Mobile | Ionic · Angular · Capacitor · Android · iOS |
+| 🌐 Frontend | Angular · React · TypeScript |
+| ☁️ Cloud / DevOps | Docker · Kubernetes · CI/CD · Linux |
+| 📨 Messaging | Kafka · Redis · Event-driven systems |
+| 🔐 Quality | Security · Testing · Observability · Production readiness |
 
 ---
 
@@ -174,124 +162,8 @@ _Last updated: 19 Oct 2026 13:23 UTC_
 
 ---
 
-## ⚡ Current Focus
-
-| Area | Focus |
-|---|---|
-| 🧠 AI Engineering | LLM · RAG · Vector Search · MCP · AI infrastructure |
-| ☕ Backend | Java · Spring Boot · .NET · REST · Microservices |
-| 📱 Mobile | Ionic · Angular · Capacitor · Android · iOS |
-| 🌐 Frontend | Angular · React · TypeScript |
-| ☁️ Cloud / DevOps | Docker · Kubernetes · CI/CD · Linux |
-| 📨 Messaging | Kafka · Redis · Event-driven systems |
-| 🔐 Quality | Security · Testing · Observability · Production readiness |
-
----
-
-## 🚀 What I Build
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       ADEM ENGINEERING                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  WEB ────────────┐                                           │
-│  MOBILE ─────────┼──► API / SERVICES ──► DATA               │
-│  INTEGRATIONS ───┘          │                  │              │
-│                             ├──► CACHE / EVENTS              │
-│                             │                               │
-│                             └──► AI / RAG / MCP             │
-│                                                              │
-│                  TEST → OBSERVE → SECURE → SHIP              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧪 Engineering Principles
-
-- **Architecture before complexity.**
-- **Automation before repetition.**
-- **Observability before guessing.**
-- **Security before production.**
-- **Tests before confidence.**
-- **Simple interfaces over unnecessary complexity.**
-- **A system is successful when it can evolve safely.**
-
----
-
-## 🤖 AI / RAG / MCP
-
-I am particularly interested in practical AI systems rather than isolated model demos:
-
-`LLM` · `RAG` · `Embeddings` · `Vector Databases` · `Qdrant` · `Redis` · `LiteLLM` · `Ollama` · `MCP` · `Agents` · `n8n` · `AI Infrastructure`
-
-Typical flow:
-
-```text
-Documents / APIs
-      ↓
-Ingestion & Chunking
-      ↓
-Embeddings
-      ↓
-Vector Search
-      ↓
-Retrieval + Context
-      ↓
-LLM / Agent
-      ↓
-Tool Calling / MCP
-      ↓
-Application Response
-```
-
----
-
-## 💡 Beyond the Code
-
-```javascript
-const adem = {
-  role: "Senior Software Development Specialist",
-  build: [
-    "Web Applications",
-    "Mobile Applications",
-    "Backend Services",
-    "Microservices",
-    "AI-powered Systems"
-  ],
-  focus: [
-    "Architecture",
-    "Automation",
-    "Performance",
-    "Security",
-    "Developer Experience"
-  ],
-  philosophy:
-    "Great software is not only code that works — it is software that can evolve."
-};
-```
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AdemDemirFE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdemDemirFE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adem%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademdemirfe/)
-[![Instagram](https://img.shields.io/badge/Instagram-adem.fe.23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adem.fe.23/)
-
-📧 **adem.demir.fe@gmail.com**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/footer.svg" alt="Build • Integrate • Test • Ship" width="60%" />
-
-**Thanks for visiting my profile.** ⭐
+*Architecture before complexity · Automation before repetition · Tests before confidence.*
 
 </div>
