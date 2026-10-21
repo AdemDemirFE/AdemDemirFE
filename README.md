@@ -111,25 +111,25 @@ flowchart TB
 |---|---:|
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
-| 📦 Public repositories | **114** |
+| 📦 Public repositories | **115** |
 | 📝 Commits | **9** |
 | 🔀 Pull requests | **1** |
 | 🐛 Issues | **4** |
 | 👀 PR reviews | **0** |
 | 🔥 Current contribution streak | **20 days** |
 | 🏆 Longest contribution streak | **36 days** |
-| 📈 Contributions in current period | **1 609** |
+| 📈 Contributions in current period | **1 618** |
 
 ### 💻 Most Used Languages
 
-- **TypeScript** `27.8%` `██████░░░░░░░░░░░░░░`
-- **Python** `24.5%` `█████░░░░░░░░░░░░░░░`
-- **Java** `23.9%` `█████░░░░░░░░░░░░░░░`
-- **JavaScript** `6.1%` `█░░░░░░░░░░░░░░░░░░░`
-- **C** `4.1%` `█░░░░░░░░░░░░░░░░░░░`
-- **PHP** `3.8%` `█░░░░░░░░░░░░░░░░░░░`
-- **HTML** `2.2%` `█░░░░░░░░░░░░░░░░░░░`
-- **Go** `1.9%` `█░░░░░░░░░░░░░░░░░░░`
+- **TypeScript** `28.5%` `██████░░░░░░░░░░░░░░`
+- **Python** `23.1%` `█████░░░░░░░░░░░░░░░`
+- **Java** `22.6%` `█████░░░░░░░░░░░░░░░`
+- **JavaScript** `5.8%` `█░░░░░░░░░░░░░░░░░░░`
+- **Go** `5.2%` `█░░░░░░░░░░░░░░░░░░░`
+- **C** `3.9%` `█░░░░░░░░░░░░░░░░░░░`
+- **PHP** `3.5%` `█░░░░░░░░░░░░░░░░░░░`
+- **HTML** `2.1%` `█░░░░░░░░░░░░░░░░░░░`
 
 ### 📅 Recent Contribution Activity
 
@@ -144,9 +144,9 @@ flowchart TB
 - `27 Sep` `███████░░░░░░░░░░░░░` **103** contributions
 - `04 Oct` `████████████░░░░░░░░` **172** contributions
 - `11 Oct` `████████████████████` **288** contributions
-- `18 Oct` `██████████████░░░░░░` **201** contributions
+- `18 Oct` `███████████████░░░░░` **210** contributions
 
-_Last updated: 21 Oct 2026 17:15 UTC_
+_Last updated: 21 Oct 2026 21:45 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
