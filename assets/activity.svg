@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
 <rect width="100%" height="100%" rx="24" fill="#0f172a"/>
 <text x="60" y="55" font-family="Arial" font-size="30" font-weight="700" fill="#06b6d4">CONTRIBUTION ACTIVITY • LAST 12 WEEKS</text>
-<rect x="80" y="323" width="70" height="17" rx="8" fill="#06b6d4"/>
+<rect x="80" y="328" width="70" height="12" rx="8" fill="#06b6d4"/>
 <text x="115.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">19</text>
-<rect x="170" y="324" width="70" height="16" rx="8" fill="#06b6d4"/>
+<rect x="170" y="328" width="70" height="12" rx="8" fill="#06b6d4"/>
 <text x="205.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">18</text>
-<rect x="260" y="292" width="70" height="48" rx="8" fill="#06b6d4"/>
+<rect x="260" y="304" width="70" height="36" rx="8" fill="#06b6d4"/>
 <text x="295.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">54</text>
-<rect x="350" y="308" width="70" height="32" rx="8" fill="#06b6d4"/>
+<rect x="350" y="316" width="70" height="24" rx="8" fill="#06b6d4"/>
 <text x="385.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">36</text>
-<rect x="440" y="137" width="70" height="203" rx="8" fill="#06b6d4"/>
+<rect x="440" y="187" width="70" height="153" rx="8" fill="#06b6d4"/>
 <text x="475.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">226</text>
-<rect x="530" y="163" width="70" height="177" rx="8" fill="#06b6d4"/>
+<rect x="530" y="207" width="70" height="133" rx="8" fill="#06b6d4"/>
 <text x="565.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">197</text>
-<rect x="620" y="205" width="70" height="135" rx="8" fill="#06b6d4"/>
+<rect x="620" y="238" width="70" height="102" rx="8" fill="#06b6d4"/>
 <text x="655.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">151</text>
-<rect x="710" y="235" width="70" height="105" rx="8" fill="#06b6d4"/>
+<rect x="710" y="261" width="70" height="79" rx="8" fill="#06b6d4"/>
 <text x="745.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">117</text>
-<rect x="800" y="248" width="70" height="92" rx="8" fill="#06b6d4"/>
+<rect x="800" y="271" width="70" height="69" rx="8" fill="#06b6d4"/>
 <text x="835.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">103</text>
-<rect x="890" y="187" width="70" height="153" rx="8" fill="#06b6d4"/>
+<rect x="890" y="224" width="70" height="116" rx="8" fill="#06b6d4"/>
 <text x="925.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">171</text>
-<rect x="980" y="81" width="70" height="259" rx="8" fill="#06b6d4"/>
+<rect x="980" y="145" width="70" height="195" rx="8" fill="#06b6d4"/>
 <text x="1015.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">288</text>
 <rect x="1070" y="80" width="70" height="260" rx="8" fill="#06b6d4"/>
-<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">289</text>
+<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">383</text>
 </svg>
