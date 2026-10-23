@@ -111,25 +111,25 @@ flowchart TB
 |---|---:|
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
-| 📦 Public repositories | **116** |
+| 📦 Public repositories | **117** |
 | 📝 Commits | **9** |
 | 🔀 Pull requests | **1** |
 | 🐛 Issues | **4** |
 | 👀 PR reviews | **0** |
 | 🔥 Current contribution streak | **22 days** |
 | 🏆 Longest contribution streak | **36 days** |
-| 📈 Contributions in current period | **1 794** |
+| 📈 Contributions in current period | **1 808** |
 
 ### 💻 Most Used Languages
 
-- **TypeScript** `28.4%` `██████░░░░░░░░░░░░░░`
-- **Python** `23.3%` `█████░░░░░░░░░░░░░░░`
-- **Java** `22.5%` `████░░░░░░░░░░░░░░░░`
-- **JavaScript** `5.7%` `█░░░░░░░░░░░░░░░░░░░`
-- **Go** `5.2%` `█░░░░░░░░░░░░░░░░░░░`
-- **C** `3.8%` `█░░░░░░░░░░░░░░░░░░░`
-- **PHP** `3.5%` `█░░░░░░░░░░░░░░░░░░░`
-- **HTML** `2.1%` `█░░░░░░░░░░░░░░░░░░░`
+- **TypeScript** `32.6%` `███████░░░░░░░░░░░░░`
+- **Python** `21.7%` `████░░░░░░░░░░░░░░░░`
+- **Java** `21.0%` `████░░░░░░░░░░░░░░░░`
+- **JavaScript** `5.5%` `█░░░░░░░░░░░░░░░░░░░`
+- **Go** `4.8%` `█░░░░░░░░░░░░░░░░░░░`
+- **C** `3.6%` `█░░░░░░░░░░░░░░░░░░░`
+- **PHP** `3.3%` `█░░░░░░░░░░░░░░░░░░░`
+- **HTML** `1.9%` `█░░░░░░░░░░░░░░░░░░░`
 
 ### 📅 Recent Contribution Activity
 
@@ -137,16 +137,16 @@ flowchart TB
 - `09 Aug` `█░░░░░░░░░░░░░░░░░░░` **18** contributions
 - `16 Aug` `███░░░░░░░░░░░░░░░░░` **54** contributions
 - `23 Aug` `██░░░░░░░░░░░░░░░░░░` **36** contributions
-- `30 Aug` `████████████░░░░░░░░` **226** contributions
+- `30 Aug` `███████████░░░░░░░░░` **226** contributions
 - `06 Sep` `██████████░░░░░░░░░░` **197** contributions
 - `13 Sep` `████████░░░░░░░░░░░░` **151** contributions
 - `20 Sep` `██████░░░░░░░░░░░░░░` **117** contributions
 - `27 Sep` `█████░░░░░░░░░░░░░░░` **103** contributions
 - `04 Oct` `█████████░░░░░░░░░░░` **171** contributions
-- `11 Oct` `███████████████░░░░░` **288** contributions
-- `18 Oct` `████████████████████` **387** contributions
+- `11 Oct` `██████████████░░░░░░` **288** contributions
+- `18 Oct` `████████████████████` **401** contributions
 
-_Last updated: 23 Oct 2026 04:55 UTC_
+_Last updated: 23 Oct 2026 11:43 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
