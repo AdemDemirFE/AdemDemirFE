@@ -111,14 +111,14 @@ flowchart TB
 |---|---:|
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
-| 📦 Public repositories | **117** |
-| 📝 Commits | **9** |
-| 🔀 Pull requests | **1** |
+| 📦 Public repositories | **118** |
+| 📝 Commits | **11** |
+| 🔀 Pull requests | **5** |
 | 🐛 Issues | **4** |
-| 👀 PR reviews | **0** |
+| 👀 PR reviews | **4** |
 | 🔥 Current contribution streak | **23 days** |
 | 🏆 Longest contribution streak | **36 days** |
-| 📈 Contributions in current period | **1 925** |
+| 📈 Contributions in current period | **1 936** |
 
 ### 💻 Most Used Languages
 
@@ -138,15 +138,15 @@ flowchart TB
 - `16 Aug` `██░░░░░░░░░░░░░░░░░░` **54** contributions
 - `23 Aug` `█░░░░░░░░░░░░░░░░░░░` **36** contributions
 - `30 Aug` `█████████░░░░░░░░░░░` **226** contributions
-- `06 Sep` `████████░░░░░░░░░░░░` **197** contributions
+- `06 Sep` `███████░░░░░░░░░░░░░` **197** contributions
 - `13 Sep` `██████░░░░░░░░░░░░░░` **151** contributions
-- `20 Sep` `█████░░░░░░░░░░░░░░░` **117** contributions
+- `20 Sep` `████░░░░░░░░░░░░░░░░` **117** contributions
 - `27 Sep` `████░░░░░░░░░░░░░░░░` **103** contributions
-- `04 Oct` `███████░░░░░░░░░░░░░` **171** contributions
+- `04 Oct` `██████░░░░░░░░░░░░░░` **171** contributions
 - `11 Oct` `███████████░░░░░░░░░` **288** contributions
-- `18 Oct` `████████████████████` **518** contributions
+- `18 Oct` `████████████████████` **529** contributions
 
-_Last updated: 24 Oct 2026 11:06 UTC_
+_Last updated: 24 Oct 2026 15:59 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
