@@ -112,19 +112,19 @@ flowchart TB
 | ⭐ Stars received | **6** |
 | 🍴 Forks | **0** |
 | 📦 Public repositories | **118** |
-| 📝 Commits | **11** |
-| 🔀 Pull requests | **5** |
+| 📝 Commits | **22** |
+| 🔀 Pull requests | **16** |
 | 🐛 Issues | **4** |
-| 👀 PR reviews | **4** |
+| 👀 PR reviews | **11** |
 | 🔥 Current contribution streak | **23 days** |
 | 🏆 Longest contribution streak | **36 days** |
-| 📈 Contributions in current period | **1 936** |
+| 📈 Contributions in current period | **2 022** |
 
 ### 💻 Most Used Languages
 
 - **TypeScript** `32.6%` `███████░░░░░░░░░░░░░`
 - **Python** `21.7%` `████░░░░░░░░░░░░░░░░`
-- **Java** `21.0%` `████░░░░░░░░░░░░░░░░`
+- **Java** `20.9%` `████░░░░░░░░░░░░░░░░`
 - **JavaScript** `5.5%` `█░░░░░░░░░░░░░░░░░░░`
 - **Go** `4.8%` `█░░░░░░░░░░░░░░░░░░░`
 - **C** `3.6%` `█░░░░░░░░░░░░░░░░░░░`
@@ -137,16 +137,16 @@ flowchart TB
 - `09 Aug` `█░░░░░░░░░░░░░░░░░░░` **18** contributions
 - `16 Aug` `██░░░░░░░░░░░░░░░░░░` **54** contributions
 - `23 Aug` `█░░░░░░░░░░░░░░░░░░░` **36** contributions
-- `30 Aug` `█████████░░░░░░░░░░░` **226** contributions
-- `06 Sep` `███████░░░░░░░░░░░░░` **197** contributions
-- `13 Sep` `██████░░░░░░░░░░░░░░` **151** contributions
+- `30 Aug` `███████░░░░░░░░░░░░░` **226** contributions
+- `06 Sep` `██████░░░░░░░░░░░░░░` **197** contributions
+- `13 Sep` `█████░░░░░░░░░░░░░░░` **151** contributions
 - `20 Sep` `████░░░░░░░░░░░░░░░░` **117** contributions
-- `27 Sep` `████░░░░░░░░░░░░░░░░` **103** contributions
+- `27 Sep` `███░░░░░░░░░░░░░░░░░` **103** contributions
 - `04 Oct` `██████░░░░░░░░░░░░░░` **171** contributions
-- `11 Oct` `███████████░░░░░░░░░` **288** contributions
-- `18 Oct` `████████████████████` **529** contributions
+- `11 Oct` `█████████░░░░░░░░░░░` **288** contributions
+- `18 Oct` `████████████████████` **615** contributions
 
-_Last updated: 24 Oct 2026 15:59 UTC_
+_Last updated: 24 Oct 2026 20:53 UTC_
 
 <!-- PROFILE_METRICS:END -->
 
