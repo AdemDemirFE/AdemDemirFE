@@ -3,26 +3,26 @@
 <text x="60" y="55" font-family="Arial" font-size="30" font-weight="700" fill="#06b6d4">CONTRIBUTION ACTIVITY • LAST 12 WEEKS</text>
 <rect x="80" y="331" width="70" height="9" rx="8" fill="#06b6d4"/>
 <text x="115.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">19</text>
-<rect x="170" y="331" width="70" height="9" rx="8" fill="#06b6d4"/>
+<rect x="170" y="332" width="70" height="8" rx="8" fill="#06b6d4"/>
 <text x="205.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">18</text>
-<rect x="260" y="313" width="70" height="27" rx="8" fill="#06b6d4"/>
+<rect x="260" y="314" width="70" height="26" rx="8" fill="#06b6d4"/>
 <text x="295.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">54</text>
-<rect x="350" y="322" width="70" height="18" rx="8" fill="#06b6d4"/>
+<rect x="350" y="323" width="70" height="17" rx="8" fill="#06b6d4"/>
 <text x="385.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">36</text>
-<rect x="440" y="227" width="70" height="113" rx="8" fill="#06b6d4"/>
+<rect x="440" y="230" width="70" height="110" rx="8" fill="#06b6d4"/>
 <text x="475.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">226</text>
-<rect x="530" y="242" width="70" height="98" rx="8" fill="#06b6d4"/>
+<rect x="530" y="244" width="70" height="96" rx="8" fill="#06b6d4"/>
 <text x="565.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">197</text>
-<rect x="620" y="265" width="70" height="75" rx="8" fill="#06b6d4"/>
+<rect x="620" y="267" width="70" height="73" rx="8" fill="#06b6d4"/>
 <text x="655.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">151</text>
-<rect x="710" y="282" width="70" height="58" rx="8" fill="#06b6d4"/>
+<rect x="710" y="283" width="70" height="57" rx="8" fill="#06b6d4"/>
 <text x="745.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">117</text>
-<rect x="800" y="289" width="70" height="51" rx="8" fill="#06b6d4"/>
+<rect x="800" y="290" width="70" height="50" rx="8" fill="#06b6d4"/>
 <text x="835.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">103</text>
-<rect x="890" y="255" width="70" height="85" rx="8" fill="#06b6d4"/>
+<rect x="890" y="257" width="70" height="83" rx="8" fill="#06b6d4"/>
 <text x="925.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">171</text>
-<rect x="980" y="196" width="70" height="144" rx="8" fill="#06b6d4"/>
+<rect x="980" y="199" width="70" height="141" rx="8" fill="#06b6d4"/>
 <text x="1015.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">288</text>
 <rect x="1070" y="80" width="70" height="260" rx="8" fill="#06b6d4"/>
-<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">518</text>
+<text x="1105.0" y="370" text-anchor="middle" font-family="Arial" font-size="15" fill="#94a3b8">531</text>
 </svg>
