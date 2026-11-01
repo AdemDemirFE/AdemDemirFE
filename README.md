@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/header.svg" alt="Adem Demir — Senior Software Development Specialist" width="100%" />
+<img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/header.svg" alt="Adem Demir — Senior Software Developer" width="100%" />
 
 <img src="https://raw.githubusercontent.com/AdemDemirFE/AdemDemirFE/main/assets/typing.svg" alt="Build • Integrate • Test • Ship" width="100%" />
 
